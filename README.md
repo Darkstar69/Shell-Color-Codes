@@ -30,7 +30,7 @@ Explanatino:
     - `47` is the background light gray code
 
 ***
-<img src="./screenshots/ss3.png" alt="example screenshot 3">
+![Eample Screenshot](/screenshots/ss3.png)
 
 ***
 
@@ -54,13 +54,14 @@ Explanatino:
     - 46 - <span style='background-color:cyan'>Cyan</span>
     - 47 - <span style='background-color:lightgray'>Light Gray</span>
 
-  <style>
+<!--  <style>
     @keyframes blink {
       50% {
         opacity: 0;
       }
     }
   </style>
+-->
 
 - ASNI Codes
     - 0 - Normal Characters
