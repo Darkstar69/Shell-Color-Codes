@@ -29,6 +29,11 @@ Explanatino:
     - `32` for foreground green color code or text color code
     - `47` is the background light gray code
 
+***
+<img src="./screenshots/ss3.png" alt="example screenshot 3">
+
+***
+
 - Foreground Color Codes
     - 30 - <span style='color:black'>Black</span>
     - 31 - <span style='color:red'>Red</span>
@@ -63,10 +68,5 @@ Explanatino:
     - 4 - <span style='text-decoration:underline'>Underline Charachters</span>
     - 5 - <span style='animation: blink 1s infinite;'>Blinking Charachters</span>
     - 7 - <span style='filter:invert(1)'>Reverse video Charachters</span> (Inverse)
-
-***
-
-<img src="./screenshots/ss1.png" alt="example screenshot 1">
-<img src="./screenshots/ss2.png" alt="example screenshot 1">
 
 ***
