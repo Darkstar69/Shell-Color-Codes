@@ -64,4 +64,9 @@ Explanatino:
     - 5 - <span style='animation: blink 1s infinite;'>Blinking Charachters</span>
     - 7 - <span style='filter:invert(1)'>Reverse video Charachters</span> (Inverse)
 
-# Shell-Color-Codes
+***
+
+<img src="./screenshots/ss1.png" alt="example screenshot 1">
+<img src="./screenshots/ss2.png" alt="example screenshot 1">
+
+***
