@@ -1,6 +1,6 @@
 # Bash Shell Color Codes
 
-##### Syntax
+### Syntax
 ```
 echo -e "\e[31mYOUR TEXT\e[0m"
 ```
