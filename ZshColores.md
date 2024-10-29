@@ -19,7 +19,7 @@ output:\
 ![output 1](/screenshots/namecolors.png)\
 `Your text` replace this with whatever you like.
 
-output:
+output:\
 ![output 1](/screenshots/zsheg1.png)
 
 `PS1`: it is a shell prompt string variable that defines text displayed before each command you enter.
