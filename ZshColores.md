@@ -16,7 +16,7 @@
 Eg: `#ff0000` is red, `#00ff00` is green and `#0000ff` is blue
 Eg: we can also write names instead of values like red
 output:\
-![output 1](/screenshots/namecolors.png)
+![output 1](/screenshots/namecolors.png)\
 `Your text` replace this with whatever you like.
 
 output:
