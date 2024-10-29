@@ -15,7 +15,7 @@
 `{#00ff00}` is the actual color part where we just put the hex value of our color.
 Eg: `#ff0000` is red, `#00ff00` is green and `#0000ff` is blue
 Eg: we can also write names instead of values like red
-output:
+output:\
 ![output 1](/screenshots/namecolors.png)
 `Your text` replace this with whatever you like.
 
@@ -27,7 +27,7 @@ output:
 `%m`: it shows the hostname of the system.
 `%1~`: the %1 part shows the name of the current working directory and the tilde symbol will only be displayed if you are inside your home directory.
 
-Eg:
+Eg:\
 ![%n example](/screenshots/neg.png)\
 ![%m example](/screenshots/meg.png)\
 ![%1~ example](/screenshots/cdeg.png)
@@ -38,7 +38,7 @@ Eg:
 `%r` Show current time in a 12-hour format with seconds.
 `%D` Show the date in "yyyy-mm-dd" format.
 
-Eg:
+Eg:\
 ![%j example](/screenshots/jobseg.png)\
 ![%L example](/screenshots/shell.png)\
 ![%T example](/screenshots/time.png)\
@@ -53,7 +53,7 @@ Bold:
 PS1="%F{red}%BYour Text%b %f"
 ```
 
-output:
+output:\
 ![%B example](/screenshots/boldeg.png)
 
 Underline:
@@ -62,7 +62,7 @@ Underline:
 PS1="%F{red}%UYour Text%u %f"
 ```
 
-output:
+output:\
 ![%U example](/screenshots/underlineeg.png)
 
 Highlight:
@@ -71,7 +71,7 @@ Highlight:
 PS1="%F{red}%SYour Text%s %f"
 ```
 
-output:
+output:\
 ![%S example](/screenshots/higheg.png)
 
 If we want to add anything to the right side of the prompt then we can use
