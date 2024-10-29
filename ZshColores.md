@@ -10,11 +10,11 @@
 
 ### Breakdown of the Syntax
 
-`%F{color} YOUR TEXT %f` Foreground/Text color
-`%K{color} YOUR TEXT %k` Background color
-`{#00ff00}` is the actual color part where we just put the hex value of our color.
-Eg: `#ff0000` is red, `#00ff00` is green and `#0000ff` is blue
-Eg: we can also write names instead of values like red
+`%F{color} YOUR TEXT %f` Foreground/Text color\
+`%K{color} YOUR TEXT %k` Background color\
+`{#00ff00}` is the actual color part where we just put the hex value of our color.\
+Eg: `#ff0000` is red, `#00ff00` is green and `#0000ff` is blue\
+Eg: we can also write names instead of values like red\
 output:\
 ![output 1](/screenshots/namecolors.png)\
 `Your text` replace this with whatever you like.
@@ -22,9 +22,9 @@ output:\
 output:\
 ![output 1](/screenshots/zsheg1.png)
 
-`PS1`: it is a shell prompt string variable that defines text displayed before each command you enter.
-`%n`: it is used to display the username of the logged-in user.
-`%m`: it shows the hostname of the system.
+`PS1`: it is a shell prompt string variable that defines text displayed before each command you enter.\
+`%n`: it is used to display the username of the logged-in user.\
+`%m`: it shows the hostname of the system.\
 `%1~`: the %1 part shows the name of the current working directory and the tilde symbol will only be displayed if you are inside your home directory.
 
 Eg:\
@@ -32,10 +32,10 @@ Eg:\
 ![%m example](/screenshots/meg.png)\
 ![%1~ example](/screenshots/cdeg.png)
 
-`%j` The number of jobs currently managed by the shell.
-`%L` The current value of the $SHLVL variable.
-`%T` The current time in 24-hour format.
-`%r` Show current time in a 12-hour format with seconds.
+`%j` The number of jobs currently managed by the shell.\
+`%L` The current value of the $SHLVL variable.\
+`%T` The current time in 24-hour format.\
+`%r` Show current time in a 12-hour format with seconds.\
 `%D` Show the date in "yyyy-mm-dd" format.
 
 Eg:\
