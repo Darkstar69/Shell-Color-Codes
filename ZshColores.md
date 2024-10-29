@@ -28,8 +28,8 @@ output:
 `%1~`: the %1 part shows the name of the current working directory and the tilde symbol will only be displayed if you are inside your home directory.
 
 Eg:
-![%n example](/screenshots/neg.png)
-![%m example](/screenshots/meg.png)
+![%n example](/screenshots/neg.png)\
+![%m example](/screenshots/meg.png)\
 ![%1~ example](/screenshots/cdeg.png)
 
 `%j` The number of jobs currently managed by the shell.
@@ -39,10 +39,10 @@ Eg:
 `%D` Show the date in "yyyy-mm-dd" format.
 
 Eg:
-![%j example](/screenshots/jobseg.png)
-![%L example](/screenshots/shell.png)
-![%T example](/screenshots/time.png)
-![%t example](/screenshots/time12.png)
+![%j example](/screenshots/jobseg.png)\
+![%L example](/screenshots/shell.png)\
+![%T example](/screenshots/time.png)\
+![%t example](/screenshots/time12.png)\
 ![%D example](/screenshots/date.png)
 
 For additional styling we can wrap the text with other values like
