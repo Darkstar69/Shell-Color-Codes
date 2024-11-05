@@ -65,3 +65,16 @@ Explanatino:
   - 7 - Reverse video Charachters(Inverse)
 
 ***
+#### Basics of the PS1 Prompt Format
+##### In bash, PS1 defines the left-aligned prompt format. Here's a breakdown of some commonly used escape sequences:
+```
+\u: Displays the current user's username.\
+\h: Shows the hostname up to the first dot (e.g., myhost from myhost.example.com).\
+\H: Shows the full hostname (e.g., myhost.example.com).\
+\w: Displays the current working directory, with ~ representing the home directory.\
+\W: Shows only the basename of the current directory (e.g., mydir instead of /home/user/mydir).\
+\d: Shows the date in Weekday Month Date format (e.g., Tue Nov 05).\
+\t: Shows the current time in 24-hour HH:MM format.\
+\n: Inserts a new line.\
+\e[COLORm TEXT \e[0m: Adds colors, where COLOR is a code for a specific color (e.g., 31 for red, 32 for green).\
+```
